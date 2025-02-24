@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Halak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+667baa02cbbb39b468168ff3c498c42997ecb971")]
 [assembly: System.Reflection.AssemblyProductAttribute("Halak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Halak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
     namespace Halak.Models
 {
-    public class HorgaszoModel
+    public class HorgaszokModel
     {
         public required int id { get; set; }
         public required string nev { get; set; }

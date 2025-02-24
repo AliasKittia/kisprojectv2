@@ -29,8 +29,8 @@ namespace Halak.Data
             modelBuilder.Entity<TavakModel>()
                 .HasKey(t => t.id);
 
-            // HorgaszoModel konfiguráció
-            modelBuilder.Entity<HorgaszoModel>()
+            // HorgaszokModel konfiguráció
+            modelBuilder.Entity<HorgaszokModel>()
                 .HasKey(h => h.id);
         }
     }
